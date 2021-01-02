@@ -13,9 +13,9 @@ Learning CUDA will enable you to accelerate your own applications. Accelerated a
 
 **By following these two notebooks, you can step into Cuda.**
 
-[ x ] [Task1](/task1/AC_CUDA_C.ipynb)
+[x] [Task1](/task1/AC_CUDA_C.ipynb)
 
-[ x ] [Task2](/task2/UnifiedMemory.ipynb)
+[x] [Task2](/task2/UnifiedMemory.ipynb)
 
 
 **Course link :** https://courses.nvidia.com/courses/course-v1:DLI+C-AC-01+V1/about
